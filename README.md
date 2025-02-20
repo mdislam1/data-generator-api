@@ -30,7 +30,7 @@ The project is designed to demonstrate how to generate random data and expose it
 1. **Clone the Repository**:
    ```bash
    git clone https://github.com/mdislam1/api-python.git
-   cd your-repo-name
+   cd data-generator-api
    ```
 
 2. **Install Dependencies Using `requirements.txt`**:
@@ -108,7 +108,7 @@ python api.py
 1. Open **Command Prompt** or **PowerShell**.
 2. Navigate to the project directory:
    ```cmd
-   cd path\to\your-repo-name
+   cd path\to\data-generator-api
    ```
 3. Run the scripts as described above.
 
@@ -116,7 +116,7 @@ python api.py
 1. Open **Terminal**.
 2. Navigate to the project directory:
    ```bash
-   cd path/to/your-repo-name
+   cd path/to/data-generator-api
    ```
 3. Run the scripts as described above.
 
