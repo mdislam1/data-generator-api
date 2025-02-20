@@ -33,7 +33,6 @@ def generate_random_data(num_records=100):
     df = pd.DataFrame(data)
     return df
 
-# Example usage
 if __name__ == "__main__":
     # Generate 100 records of random data
     generate_random_data(100)
