@@ -60,5 +60,5 @@ def generate_random_data(num_records=100):
 
 if __name__ == "__main__":
     # Generate 10,000 records of random data
-    print(generate_random_data(100))
+    generate_random_data(100)
     
